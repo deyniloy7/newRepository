@@ -1,1 +1,3 @@
 to Create a new branch - git checkout -b new_branch_name
+
+On baranch "home"
